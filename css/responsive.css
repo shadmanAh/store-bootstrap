@@ -1,0 +1,429 @@
+@media screen and (max-width: 1200px){
+    .tab-slider .nav-tabs li a, .tab-slider .nav-tabs li a:active, .tab-slider .nav-tabs li a:focus{
+        padding: 20px;
+    }
+
+    .page-cart .discount .discount-form{
+        width: 40%;
+        float: none;
+    }
+
+    .pre-order .pre-order-content p{
+        width: 100%;
+    }
+
+}
+@media screen and (max-width: 720px){
+    .no-rpadding,.no-lpadding,.no-padding{
+        padding: 0 15px;
+    }
+
+    .header-top .pull-left{
+        float: none !important;
+    }
+    .header-top ul li{
+        float: none;
+        display: block;
+        text-align: center;
+    }
+    .header-main{
+        padding-bottom: 0;
+    }
+    .header-main ul{
+        clear: both;
+        padding: 0;
+    }
+    .header-main ul li{
+        width: 100%;
+        text-align: center;
+    }
+
+    .header-bottom .search{
+        width: 100%;
+    }
+
+    .header-bottom .social{
+        float: none;
+        display: table;
+        margin: 0 auto 10px;
+    }
+
+    .slider .slide-content{
+        padding: 20px;
+    }
+
+    .slider h1{
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .slider .btn{
+        width: 50%;
+        margin: 0;
+        padding: 10px 5px;
+        font-size: 13px;
+    }
+
+    .sale-timeout .sale-inner .sale-timeout-content h2:before, .sale-timeout .sale-inner .sale-timeout-content h2:after{
+        display: none;
+    }
+
+    .newsletter input[type="text"]{
+        padding: 0;
+    }
+
+    .new-product .carousel-control.right{
+        right: 20px;
+        left: auto;
+    }
+
+    .new-product .product{
+        margin-bottom: 20px;
+    }
+
+    .new-product .product figure a{
+        display: table;
+        margin: 0 auto;
+    }
+
+    .new-product .carousel-indicators{
+        bottom: -15px;
+    }
+
+    .sale-timeout{
+        height: auto;
+        float: right;
+    }
+
+    .sale-timeout .sale-inner .sale-timeout-content{
+        width: 100%;
+        padding: 20px 0;
+    }
+
+    .sale-timeout .sale-inner figure{
+        width: 100%;
+    }
+
+    .sale-timeout .sale-inner figure img{
+        margin: 0;
+    }
+
+
+    .special-offers .offer{
+        padding: 20px;
+    }
+
+    .special-offers .offer .offer-content h2, .special-offers .offer .offer-content p{
+        text-align: center;
+    }
+
+    .special-offers .offer figure{
+        float: none;
+        width: 100%;
+        display: inline-block;
+        margin-top: 30px;
+        text-align: center;
+    }
+
+    .special-offers .offer .offer-content ul{
+        width: 100%;
+        float: none;
+        display: table;
+        margin: 0 auto;
+    }
+
+    .special-offers .offer .offer-content ul li{
+        width: 50%;
+    }
+
+    .special-offers .offer .offer-content ul li a{
+        font-size: 13px;
+        text-align: center;
+        padding: 10px 5px;
+    }
+
+    .ads-item{
+        margin: 20px auto;
+    }
+
+    .pre-order .pre-order-content p{
+        display: table;
+        margin: 5px auto;
+    }
+
+    .tab-slider .nav-tabs li a, .tab-slider .nav-tabs li a:active, .tab-slider .nav-tabs li a:focus{
+        padding: 20px;
+    }
+
+    .tab-slider .tab-content .tab-item{
+        margin: 5px 0;
+    }
+
+    .newsletter input[type="text"], .newsletter input[type="submit"], .newsletter button{
+        width: 100%;
+        position: relative;
+        padding: 10px;
+        border-radius: 0;
+    }
+
+    .newsletter i{
+        display: none;
+    }
+
+    .tab-slider .tab-content, .newsletter, .blog{
+        margin-bottom: 50px;
+    }
+
+    .block-white{
+        padding: 10px;
+    }
+
+    .page-cart .discount .discount-form{
+       width: 100%;
+        float: none;
+    }
+    .page-cart .discount .discount-form input{
+        width: 100% !important;
+        margin: 1px;
+    }
+
+    .page-cart .discount .title, .page-cart .discount p{
+        float: none;
+        line-height: 30px;
+        text-align: center;
+    }
+
+    .sidebar{
+        width: 100%;
+        float: right;
+        padding: 50px 0;
+    }
+
+    .sidebar, .category-product{
+        margin-bottom: 20px;
+        padding: 10px 0;
+    }
+
+    .single-product-details .single-product-overview{
+        padding-left: 0;
+    }
+}
+@media screen and (max-width: 480px){
+    .no-rpadding,.no-lpadding,.no-padding{
+        padding: 0 15px;
+    }
+
+    .header-top .pull-left{
+        float: none !important;
+    }
+    .header-top ul li{
+        float: none;
+        display: block;
+        text-align: center;
+    }
+    .header-main{
+        padding-bottom: 0;
+    }
+    .header-main ul{
+        clear: both;
+        padding: 0;
+    }
+    .header-main ul li{
+        width: 100%;
+        text-align: center;
+    }
+
+    .header-bottom .search{
+        width: 100%;
+    }
+
+    .header-bottom .social{
+        float: none;
+        display: table;
+        margin: 0 auto 10px;
+    }
+
+    .slider .slide-content{
+        padding: 20px;
+    }
+
+    .slider h1{
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .slider .btn{
+        width: 50%;
+        margin: 0;
+        padding: 10px 5px;
+        font-size: 13px;
+    }
+
+    .sale-timeout .sale-inner .sale-timeout-content h2:before, .sale-timeout .sale-inner .sale-timeout-content h2:after{
+        display: none;
+    }
+
+    .newsletter input[type="text"]{
+        padding: 0;
+    }
+
+    .new-product .carousel-control.right{
+        right: 20px;
+        left: auto;
+    }
+
+    .new-product .product{
+        margin-bottom: 20px;
+    }
+
+    .new-product .product figure a{
+        display: table;
+        margin: 0 auto;
+    }
+
+    .new-product .carousel-indicators{
+        bottom: -15px;
+    }
+
+    .sale-timeout{
+        height: auto;
+        float: right;
+    }
+
+    .sale-timeout .sale-inner .sale-timeout-content{
+        width: 100%;
+        padding: 20px 0;
+    }
+
+    .sale-timeout .sale-inner figure{
+        width: 100%;
+    }
+
+    .sale-timeout .sale-inner figure img{
+        margin: 0;
+    }
+
+
+    .special-offers .offer{
+        padding: 20px;
+    }
+
+    .special-offers .offer .offer-content h2, .special-offers .offer .offer-content p{
+        text-align: center;
+    }
+
+    .special-offers .offer figure{
+        float: none;
+        width: 100%;
+        display: inline-block;
+        margin-top: 30px;
+        text-align: center;
+    }
+
+    .special-offers .offer .offer-content ul{
+       width: 100%;
+        float: none;
+        display: table;
+        margin: 0 auto;
+    }
+
+
+
+    .special-offers .offer .offer-content ul li, .special-offers .offer .offer-content ul li a{
+        width: 100%;
+        display: block;
+        font-size: 13px;
+        text-align: center;
+        padding: 10px 5px;
+        margin-bottom: 1px;
+    }
+
+    .ads-item{
+        margin: 20px auto;
+    }
+
+    .pre-order .pre-order-content p{
+        display: table;
+        margin: 5px auto;
+    }
+
+    .tab-slider .nav-tabs li a, .tab-slider .nav-tabs li a:active, .tab-slider .nav-tabs li a:focus{
+        padding: 20px;
+    }
+
+    .tab-slider .tab-content .tab-item{
+        margin: 5px 0;
+    }
+
+    .newsletter input[type="text"], .newsletter input[type="submit"], .newsletter button{
+        width: 100%;
+        position: relative;
+        padding: 10px;
+        border-radius: 0;
+    }
+
+    .newsletter i{
+        display: none;
+    }
+
+    .tab-slider .tab-content, .newsletter, .blog{
+        margin-bottom: 50px;
+    }
+
+    .ads-item{
+        height: auto;
+    }
+
+    .single-product-details .single-product-overview .cart-options .btn-cart{
+        display: table;
+        padding: 20px 50px;
+    }
+
+
+
+
+}
+
+@media screen and (max-width: 800px){
+    .header-main .cart{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 580px) and (max-width: 800px){
+    .header-main .cart{
+        overflow-x: auto;
+    }
+}
+
+@media screen and (max-width: 580px){
+    .header-main .cart td, .header-main .cart tr{
+        display: block;
+        text-align: center;
+    }
+
+}
+
+@media screen and (max-width: 480px){
+    .blog .col-xs-6, .tab-slider .col-xs-6{
+        width: 100%;
+    }
+
+    .blog img{
+        display: block;
+        margin: auto;
+        padding: 0;
+    }
+
+    .slider .btn{
+        width: 100%;
+        margin: 5px auto;
+    }
+}
+
+@media screen and (max-width: 350px){
+    .single-product-details .single-product-overview .cart-options .btn-cart{
+        display: table;
+        padding: 20px;
+    }
+}
